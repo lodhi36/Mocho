@@ -1,0 +1,6 @@
+{
+  "name": "Portway Multi-Vendor Delivery",
+  "description": "Production-ready multi-vendor delivery platform built with SolidJS featuring dedicated Customer, Supplier, and Rider panels with end-to-end order lifecycle management.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
